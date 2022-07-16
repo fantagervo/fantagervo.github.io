@@ -1,4 +1,6 @@
-# FantaGervo
+---
+title: Blogging
+---
 
 ## Teams
 * A
