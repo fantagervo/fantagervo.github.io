@@ -2,8 +2,8 @@
 title: Fanta Gervo
 ---
 
-***
-[Hall of Fame](https://fantagervo.github.io/hof.md)
+[Hall of Fame](./hof.md)
+
 ***
 
 ## Teams
